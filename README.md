@@ -467,7 +467,7 @@ pytest tests/ --cov=memvault --cov-report=html
 
 **独立包封装：[@GwynCat](https://github.com/GwynCat)** 🐱 — 将 MemVault 认知架构封装为 `pip install memvault` 独立 Python 包，引入 SQLite/WAL/FTS5 存储后端、BM25+ColBERT 零依赖检索、127 项测试套件。
 
-**原作：SnowHaruna (榛名雪) & 小雪 (Hermes Agent)** — MemVault 三层记忆架构、Ebbinghaus 衰减模型、Sleep Loop 巩固。
+**原作：SnowHaruna (榛名雪) & 小雪 (Hermes Agent)** — Hermes-MemVault 三层记忆架构、Ebbinghaus 衰减模型、Sleep Loop 巩固。
 
 ## License
 
